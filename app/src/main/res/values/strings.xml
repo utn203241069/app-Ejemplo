@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">app-Ejemplo</string>
+    <string name="app_name">Aaron Reyes Ascencio</string>
+
+    <string name="hola_mundo">Hola Mundo. Esta es un prueba</string>
+    <string name="regi">registro</string>
 </resources>
